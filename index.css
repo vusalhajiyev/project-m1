@@ -60,6 +60,7 @@ img{
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) 
+
 }
 
 .bakground-container-1 {
@@ -90,8 +91,6 @@ img{
 .bakground-container-8{
     background-color: #67cf75;
 }
-
-
 
 .container-item-2 { 
     max-width: 399px;
@@ -149,11 +148,6 @@ img{
     margin-top: 12px;
     color: #000000;
 }
-
-
-
-
-
 
 @media screen and (min-width: 992px) and (max-width: 1279px){ 
  
@@ -240,9 +234,7 @@ img{
     .bakground-container-8{
         background-color: #67cf75;
     }
-    
-    
-    
+       
     .container-item-2 { 
         max-width: 230px;
         height: 96px;
@@ -294,14 +286,10 @@ img{
 }
 
 
-
-
-
 @media screen and (min-width: 320px) and (max-width: 991px){ 
  
-
     header {
-    
+   
         max-width: 300px; 
         height: 43px;
         margin-left: 32px;
@@ -426,4 +414,3 @@ img{
         line-height: 12px;
     }
 
-}
