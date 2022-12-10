@@ -43,6 +43,7 @@ header img {
 .icon__element {
     display: flex;
     justify-content: space-between;
+    padding: 10px;
 }
 
 .first__article img {
@@ -74,7 +75,7 @@ header img {
 }
 
 .second__article {
-    margin: auto;
+    margin-left: 280px;
     position: relative;
     max-width: 448px;
     background-color: #1E4681;
@@ -176,4 +177,5 @@ body{
 .fourth__article img{
     display: none;
 }
+
 }
